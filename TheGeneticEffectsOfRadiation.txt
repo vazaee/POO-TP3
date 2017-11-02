@@ -1,0 +1,709 @@
+﻿The Project Gutenberg EBook of The Genetic Effects of Radiation, by 
+Isaac Asimov and Theodosius Dobzhansky
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: The Genetic Effects of Radiation
+
+Author: Isaac Asimov
+        Theodosius Dobzhansky
+
+Release Date: October 13, 2017 [EBook #55738]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+
+
+
+
+Introduction
+
+There is nothing new under the sun, says the Bible. Nor is the sun
+itself new, we might add. As long as life has existed on earth, it has
+been exposed to radiation from the sun, so that life and radiation are
+old acquaintances and have learned to live together.
+
+We are accustomed to looking upon sunlight as something good, useful,
+and desirable, and certainly we could not live long without it. The
+energy of sunlight warms the earth, produces the winds that tend to
+equalize earth’s temperatures, evaporates the oceans and produces rain
+and fresh water. Most important of all, it supplies what is needed for
+green plants to convert carbon dioxide and water into food and oxygen,
+making it possible for all animal life (including ourselves) to live.
+
+Yet sunlight has its dangers, too. Lizards avoid the direct rays of the
+noonday sun on the desert, and we ourselves take precautions against
+sunburn and sunstroke.
+
+The same division into good and bad is to be found in connection with
+other forms of radiation—forms of which mankind has only recently become
+aware. Such radiations, produced by radioactivity in the soil and
+reaching us from outer space, have also been with us from the beginning
+of time. They are more energetic than sunlight, however, and can do more
+damage, and because our senses do not detect them, we have not learned
+to take precautions against them.
+
+To be sure, energetic radiation is present in nature in only very small
+amounts and is not, therefore, much of a danger. Man, however, has the
+capacity of imitating nature. Long ago in dim prehistory, for instance,
+he learned to manufacture a kind of sunlight by setting wood and other
+fuels on fire. This involved a new kind of good and bad. A whole new
+technology became possible, on the one hand, and, on the other, the
+chance of death by burning was also possible. The good in this case far
+outweighs the evil.
+
+In our own twentieth century, mankind learned to produce energetic
+radiation in concentrations far surpassing those we usually encounter in
+nature. Again, a new technology is resulting and again there is the
+possibility of death.
+
+The balance in this second instance is less certainly in favor of the
+good over the evil. To shift the balance clearly in favor of the good,
+it is necessary for mankind to learn as much as possible about the new
+dangers in order that we might minimize them and most effectively guard
+against them.
+
+To see the nature of the danger, let us begin by considering living
+tissue itself—the living tissue that must withstand the radiation and
+that can be damaged by it.
+
+
+Cells and Chromosomes
+
+The average human adult consists of about 50 trillion _cells_—50
+trillion microscopic, more or less self-contained, blobs of life. He
+begins life, however, as a single cell, the _fertilized ovum_.
+
+After the fertilized ovum is formed, it divides and becomes two cells.
+Each daughter cell divides to produce a total of four cells, and each of
+those divides and so on.
+
+There is a high degree of order and direction to those divisions. When a
+human fertilized ovum completes its divisions an adult human being is
+the inevitable result. The fertilized ovum of a giraffe will produce a
+giraffe, that of a fruit fly will produce a fruit fly, and so on. There
+are no mistakes, so it is quite clear that the fertilized ovum must
+carry “instructions” that guide its development in the appropriate
+direction.
+
+These “instructions” are contained in the cell’s _chromosomes_, tiny
+structures that appear most clearly (like stubby bits of tangled
+spaghetti) when the cell is in the actual process of division. Each
+species has some characteristic number of chromosomes in its cells, and
+these chromosomes can be considered in pairs. Human cells, for instance,
+contain 23 pairs of chromosomes—46 in all.
+
+When a cell is undergoing division (_mitosis_), the number of
+chromosomes is temporarily doubled, as each chromosome brings about the
+formation of a replica of itself. (This process is called
+_replication_.) As the cell divides, the chromosomes are evenly shared
+by the new cells in such a way that if a particular chromosome goes into
+one daughter cell, its replica goes into the other. In the end, each
+cell has a complete set of pairs of chromosomes; and the set in each
+cell is identical with the set in the original cell before division.
+
+[Illustration: Mitosis]
+
+  Interphase
+  Prophase
+  Metaphase
+  Anaphase
+  Telophase
+  Interphase
+
+[Illustration: _To study chromosomes, scientists begin with a cell that
+is in the process of dividing, when chromosomes are in their most
+visible form. Then they treat the cell with a chemical, a derivative of
+colchicine, to arrest the cell division at the metaphase stage (see
+mitosis diagram on preceding page). This brings a result like the
+photomicrograph above; the chromosomes are visible but still too tangled
+to be counted or measured. Then the cell is treated with a
+low-concentration salt solution, which swells the chromosomes and
+disperses them so they become distinct structures, as below._]
+
+        [Illustration: Cell after treatment with salt solution]
+
+[Illustration: _The separate chromosomes in a dividing cell are
+photographed and then can be identified by their overall length, the
+position of the centromere, or point where the two strands join, and
+other characteristics. The photomicrograph can then be cut apart and the
+chromosomes grouped in a karyotype, which is an arrangement according to
+a standard classification to show chromosome complement and
+abnormalities. The karotype below is of a normal male, since it shows X
+and Y sex chromosomes and 22 pairs of other, autosomal, chromosomes. By
+contrast, the cells in the upper pictures are abnormal, with only 45
+chromosomes each._]
+
+In this way, the fundamental “instructions” that determine the
+characteristics of a cell are passed on to each new cell. Ideally, all
+the trillions of cells in a particular human being have identical sets
+of “instructions”.[1]
+
+
+Enzymes and Genes
+
+Each cell is a tiny chemical factory in which several thousand different
+kinds of chemical changes are constantly taking place among the numerous
+sorts of molecules that move about in its fluid or that are pinned to
+its solid structures. These chemical changes are guided and controlled
+by the existence of as many thousands of different _enzymes_ within the
+cell.
+
+Enzymes possess large molecules built up of some 20 different, but
+chemically related, units called _amino acids_. A particular enzyme
+molecule may contain a single amino acid of one type, five of another,
+several dozen of still another and so on. All the units are strung
+together in some specific pattern in one long chain, or in a small
+number of closely connected chains.
+
+Every different pattern of amino acids forms a molecule with its own set
+of properties, and there are an enormous number of patterns possible. In
+an enzyme molecule made up of 500 amino acids, the number of possible
+patterns can be expressed by a 1 followed by 1100 zeroes (10¹¹°°).
+
+Every cell has the capacity of choosing among this unimaginable number
+of possible patterns and selecting those characteristic of itself. It
+therefore ends with a complement of specific enzymes that guide its own
+chemical changes and, consequently, its properties and its behavior. The
+“instructions” that enable a fertilized ovum to develop in the proper
+manner are essentially “instructions” for choosing a particular set of
+enzyme patterns out of all those possible.
+
+The differences in the enzyme-guided behavior of the cells making up
+different species show themselves in differences in body structure. We
+cannot completely follow the long and intricate chain of
+cause-and-effect that leads from one set of enzymes to the long neck of
+a giraffe and from another set of enzymes to the large brain of a man,
+but we are sure that the chain is there. Even within a species,
+different individuals will have slight distinctions among their sets of
+enzymes and this accounts for the fact that no two human beings are
+exactly alike (leaving identical twins out of consideration).
+
+Each chromosome can be considered as being composed of small sections
+called _genes_, usually pictured as being strung along the length of the
+chromosome. Each gene is considered to be responsible for the formation
+of a chain of amino acids in a fixed pattern. The formation is guided by
+the details of the gene’s own structure (which are the “instructions”
+earlier referred to). This gene structure, which can be translated into
+an enzyme’s structure, is now called the _genetic code_.
+
+[Illustration: _Stained section of one cell from salivary gland of_
+Drosophila, _or fruit flies, reveals dark bands that may be genes
+controlling specific traits_.]
+
+If a particular enzyme (or group of enzymes) is, for any reason, formed
+imperfectly or not at all, this may show up as some visible abnormality
+of the body—an inability to see color, for instance, or the possession
+of two joints in each finger rather than three. It is much easier to
+observe physical differences than some delicate change in the enzyme
+pattern of the cells. Genes are therefore usually referred to by the
+body change they bring about, and one can, for instance, speak of a
+“gene for color blindness”.
+
+A gene may exist in two or more varieties, each producing a slightly
+different enzyme, a situation that is reflected, in turn, in slight
+changes in body characteristics. Thus, there are genes governing eye
+color, one of which is sufficiently important to be considered a “gene
+for blue eyes” and another a “gene for brown eyes”. One or the other,
+but not both, will be found in a specific place on a specific
+chromosome.
+
+The two chromosomes of a particular pair govern identical sets of
+characteristics. Both, for instance, will have a place for genes
+governing eye color. If we consider only the most important of the
+varieties involved, those on each chromosome of the pair may be
+identical; both may be for blue eyes or both may be for brown eyes. In
+that case, the individual is _homozygous_ for that characteristic and
+may be referred to as a _homozygote_. The chromosomes of the pair may
+carry different varieties: A gene for blue eyes on one chromosome and
+one for brown eyes on the other. The individual is then _heterozygous_
+for that characteristic and may be referred to as a _heterozygote_.
+Naturally, particular individuals may be homozygous for some types of
+characteristics and heterozygous for others.
+
+When an individual is heterozygous for a particular characteristic, it
+frequently happens that he shows the effect associated with only one of
+the gene varieties. If he possesses both a gene for brown eyes and one
+for blue eyes, his eyes are just as brown as though he had carried two
+genes for brown eyes. The gene for brown eyes is _dominant_ in this case
+while the gene for blue eyes is _recessive_.
+
+
+Parents and Offspring
+
+How does the fertilized ovum obtain its particular set of chromosomes in
+the first place?
+
+Each adult possesses gonads in which _sex cells_ are formed. In the
+male, sperm cells are formed in the testes; in the female, egg cells are
+formed in the ovaries.
+
+In the formation of the sperm cells and egg cells there is a key
+step—_meiosis_—a cell division in which the chromosomes group into pairs
+and are then apportioned between the daughter cells, one of each pair to
+each cell. Such a division, unaccompanied by replication, means that in
+place of the usual 23 pairs of chromosomes in each other cell, each sex
+cell has 23 individual chromosomes, a “half-set”, so to speak.
+
+In the process of fertilization, a sperm cell from the father enters and
+merges with an egg cell from the mother. The fertilized ovum that
+results now has a full set of 23 pairs of chromosomes, but of each pair,
+one comes from the father and one from the mother.
+
+In this way, each newborn child is a true individual, with its
+characteristics based on a random reshuffling of chromosomes. In forming
+the sex cells, the chromosome pairs can separate in either fashion (_a_
+into cell 1 and _b_ into cell 2, or vice versa). If each of 23 pairs
+does this randomly, nearly 10 million different combinations of
+chromosomes are possible in the sex cells of a single individual.
+
+Furthermore, one can’t predict which chromosome combination in the sperm
+cell will end up in combination with which in the egg cell, so that by
+this reasoning, a single married couple could produce children with any
+of 100 trillion (100,000,000,000,000) possible chromosome combinations.
+
+It is this that begins to explain the endless variety among living
+beings, even within a particular species.
+
+It only begins to explain it, because there are other sources of
+difference, too. A chromosome is capable of exchanging pieces with its
+pair, producing chromosomes with a brand new pattern of gene varieties.
+Before such a _crossover_, one chromosome may have carried a gene for
+blue eyes and one for wavy hair, while the other chromosome may have
+carried a gene for brown eyes and one for straight hair. After the
+crossover, one would carry genes for blue eyes and straight hair, the
+other for brown eyes and wavy hair.
+
+                        [Illustration: Meiosis]
+
+  Interphase
+  Prophase
+  Metaphase
+  Anaphase
+  Interphase
+  Metaphase
+  Interphase
+
+
+
+
+                               MUTATIONS
+
+
+Sudden Change
+
+Shifts in chromosome combinations, with or without crossovers, can
+produce unique organisms with characteristics not quite like any
+organism that appeared in the past nor likely to appear in the
+reasonable future. They may even produce novelties in individual
+characteristics since genes can affect one another, and a gene
+surrounded by unusual neighbors can produce unexpected effects.
+
+Matters can go further still, however, in the direction of novelty. It
+is possible for chromosomes to undergo more serious changes, either
+structural or chemical, so that entirely new characteristics are
+produced that might not otherwise exist. Such changes are called
+_mutations_.
+
+We must be careful how we use this term. A child may possess some
+characteristics not present in either parent through the mere shuffling
+of chromosomes and not through mutation.
+
+Suppose, for instance, that a man is heterozygous to eye color, carrying
+one gene for brown eyes and one for blue eyes. His eyes would, of
+course, be brown since the gene for brown eyes is dominant over that for
+blue. Half the sperm cells he produces would carry a single gene for
+brown eyes in its half set of chromosomes. The other half would carry a
+single gene for blue eyes. If his wife were similarly heterozygous (and
+therefore also had brown eyes), half her egg cells would carry the gene
+for brown eyes and half the gene for blue.
+
+It might follow in this marriage, then, that a sperm carrying the gene
+for blue eyes might fertilize an egg carrying the gene for blue eyes.
+The child would then be homozygous, with two genes for blue eyes, and he
+would definitely be blue-eyed. In this way, two brown-eyed parents might
+have a blue-eyed child and this would _not_ be a mutation. If the
+parents’ ancestry were traced further back, blue-eyed individuals would
+undoubtedly be found on both sides of the family tree.
+
+If, however, there were no record of, say, anything but normal color
+vision in a child’s ancestry, and he were born color-blind, that could
+be assumed to be the result of a mutation. Such a mutation could then be
+passed on by the normal modes of inheritance and a certain proportion of
+the child’s eventual descendants would be color-blind.
+
+A mutation may be associated with changes in chromosome structure
+sufficiently drastic to be visible under the microscope. Such
+_chromosome mutations_ can arise in several ways. Chromosomes may
+undergo replication without the cell itself dividing. In that way, cells
+can develop with two, three, or four times the normal complement of
+chromosomes, and organisms made up of cells displaying such _polyploidy_
+can be markedly different from the norm. This situation is found chiefly
+among plants and among some groups of invertebrates. It does not usually
+occur in mammals, and when it does it leads to quick death.
+
+Less extreme changes take place, too, as when a particular chromosome
+breaks and fails to reunite, or when several break and then reunite
+incorrectly. Under such conditions, the mechanism by which chromosomes
+are distributed among the daughter cells is not likely to work
+correctly. Sex cells may then be produced with a piece of chromosome (or
+a whole one) missing, or with an extra piece (or whole chromosome)
+present.
+
+In 1959, such a situation was found to exist in the case of persons
+suffering from a long-known disease called Down’s syndrome.[2] Each
+person so afflicted has 47 chromosomes in place of the normal 46. It
+turned out that the 21st pair of chromosomes (using a convention whereby
+the chromosome pairs are numbered in order of decreasing size) consists
+of three individuals rather than two. The existence of this chromosome
+abnormality clearly demonstrated what had previously been strongly
+suspected—that Down’s syndrome originates as a mutation and is inborn
+(see the figure on the next page).
+
+[Illustration: _Karyotype of a female patient with Down’s syndrome
+(Mongolism). During meiosis both chromosomes No. 21 of the mother,
+instead of just one, went to the ovum. Fertilization added the father’s
+chromosome, which made three Nos. 21 instead of the normal pair.
+(Compare with the normal karyotype on page 4.)_]
+
+Most mutations, however, are not associated with any noticeable change
+in chromosome structure. There are, instead, more subtle changes in the
+chemical structure of the genes that make up the chromosome. Then we
+have _gene mutations_.
+
+The process by which a gene produces its own replica is complicated and,
+while it rarely goes wrong, it does misfire on occasion. Then, too, even
+when a gene molecule is replicated perfectly, it may undergo change
+afterward through the action upon it of some chemical or other
+environmental influence. In either case, a new variety of a particular
+gene is produced and, if present in a sex cell, it may be passed on to
+descendants through an indefinite number of generations.
+
+Of course, chromosome or gene mutations may take place in ordinary cells
+rather than in sex cells. Such changes in ordinary cells are _somatic
+mutations_. When mutated body cells divide, new cells with changed
+characteristics are produced. These changes may be trivial, or they may
+be serious. It is often suggested, for instance, that cancer may result
+from a somatic mutation in which certain cells lose the capacity to
+regulate their growth properly. Since somatic mutations do not involve
+the sex cells, they are confined to the individual and are not passed on
+to the offspring.
+
+
+Spontaneous Mutations
+
+Mutations that take place in the ordinary course of nature, without
+man’s interference, are _spontaneous mutations_. Most of these arise out
+of the very nature of the complicated mechanism of gene replication.
+Copies of genes are formed out of a large number of small units that
+must be lined up in just the right pattern to form one particular gene
+and no other.
+
+Ideally, matters are so arranged within the cell that the necessary
+changes giving rise to the desired pattern are just those that have a
+maximum probability. Other changes are less likely to happen but are not
+absolutely excluded. Sometimes through the accidental jostling of
+molecules a wrong turn may be taken, and the result is a spontaneous
+mutation.
+
+We might consider a mutation to be either “good” or “bad” in the sense
+that any change that helps a creature live more easily and comfortably
+is good and that the reverse is bad.
+
+It seems reasonable that random changes in the gene pattern are almost
+sure to be bad. Consider that any creature, including man, is the
+product of millions of years of evolution. In every generation those
+individuals with a gene pattern that fit them better for their
+environment won out over those with less effective patterns—won out in
+the race for food, for mates, and for safety. The “more fit” had more
+offspring and crowded out the “less fit”.
+
+By now, then, the set of genes with which we are normally equipped is
+the end product of long ages of such _natural selection_. A random
+change cannot be expected to improve it any more than random changes
+would improve any very complex, intricate, and delicate structure.
+
+[Illustration: _Evolution of the horse (skull, hindfoot, and forefoot
+shown). Note the changes over a 60-million-year period from the Eocene
+era to the present._]
+
+  Pleistocene and Recent
+  Pliocene
+  Miocene
+  Oligocene
+  Eocene
+
+Yet over the eons, creatures have indeed changed, largely through the
+effects of mutation. If mutations are almost always for the worse, how
+can one explain that evolution seems to progress toward the better and
+that out of a primitive form as simple as an amoeba, for instance, there
+eventually emerged man?
+
+In the first place, environment is not fixed. Climate changes,
+conditions change, the food supply may change, the nature of living
+enemies may change. A gene pattern that is very useful under one set of
+conditions may be less useful under another.
+
+Suppose, for instance, that man had lived in tropical areas for
+thousands of years and had developed a heavily pigmented skin as a
+protection against sunburn. Any child who, through a mutation, found
+himself incapable of forming much pigment, would be at a severe
+disadvantage in the outdoor activities engaged in by his tribe. He would
+not do well and such a mutated gene would never establish itself for
+long.
+
+If a number of these men migrated to northern Europe, however, children
+with dark skin would absorb insufficient sunlight during the long winter
+when the sun was low in the sky, and visible for brief periods only.
+Dark-skinned children would, under such conditions, tend to suffer from
+rickets.
+
+Mutant children with pale skin would absorb more of what weak sunlight
+there was and would suffer less. There would be little danger of sunburn
+so there would be no penalty counteracting this new advantage of pale
+skins. It would be the dark-skinned people who would tend to die out. In
+the end, you would have dark skins in Africa and pale skins in
+Scandinavia, and both would be “fit”.
+
+In the same way, any child born into a primitive hunting society who
+found himself with a mutated gene that brought about nearsightedness
+would be at a distinct disadvantage. In a modern technological society,
+however, nearsighted individuals, doing more poorly at outdoor games,
+are often driven into quieter activities that involve reading, thinking,
+and studying. This may lead to a career as a scientist, scholar, or
+professional man, categories that are valuable in such a society and are
+encouraged. Nearsightedness would therefore spread more generally
+through civilized societies than through primitive ones.
+
+Then, too, a gene may be advantageous when it occurs in low numbers and
+disadvantageous when it occurs in high numbers. Suppose there were a
+gene among humans that so affected the personality as to make it
+difficult for a human being to endure crowded conditions. Such
+individuals would make good explorers, farmers, and herdsmen, but poor
+city dwellers. Even in our modern urbanized society, such a gene in
+moderate concentration would be good, since we still need our
+outdoorsmen. In high concentration, it would be bad, for then the
+existence of areas of high population density (on which our society now
+seems to depend) might become impossible.
+
+In any species, then, each gene exists in a number of varieties upon
+which an absolute “good” or “bad” cannot be unequivocally stamped. These
+varieties make up the _gene pool_, and it is this gene pool that makes
+evolution possible.
+
+A species with an invariable set of genes could not change to suit
+altered conditions. Even a slight shift in the nature of the environment
+might suffice to wipe it out.
+
+The possession of a gene pool lends flexibility, however. As conditions
+change, one combination of varieties might gain over another and this,
+in turn, might produce changes in body characteristics that would then
+further alter the relative “goodness” or “badness” of certain gene
+patterns.
+
+Thus, over the past million years, for example, the human brain has,
+through mutations and appropriate shifts in emphasis within the gene
+pool, increased notably in size.
+
+
+Genetic Load
+
+Some gene mutations produce characteristics so undesirable that it is
+difficult to imagine any reasonable change in environmental conditions
+that would make them beneficial. There are mutations that lead to the
+nondevelopment of hands and feet, to the production of blood that will
+not clot, to serious malformations of essential organs, and so on. Such
+mutations are unqualifiedly bad.
+
+The badness may be so severe that a fertilized ovum may be incapable of
+development; or, if it develops, the fetus miscarries or the child is
+stillborn; or, if the child is born alive, it dies before it matures so
+that it can never have children of its own. Any mutation that brings
+about death before the gene producing it can be passed on to another
+generation is a _lethal mutation_.
+
+A gene governing a lethal characteristic may be dominant. It will then
+kill even though the corresponding gene on the other chromosome of the
+pair is normal. Under such conditions, the lethal gene is removed in the
+same generation in which it is formed.
+
+The lethal gene may, on the other hand, be recessive. Its effect is then
+not evident if the gene it is paired with is normal. The normal gene
+carries on for both.
+
+When this is the case, the lethal gene will remain in existence and
+will, every once in a while, make itself evident. If two people, each
+serving as a _carrier_ for such a gene, have children, a sperm cell
+carrying a lethal may fertilize an egg cell carrying the same type of
+lethal, with sad results.
+
+Every species, including man, includes individuals who carry undesirable
+genes. These undesirable genes may be passed along for generations, even
+if dominant, before natural selection culls them out. The more seriously
+undesirable they are, the more quickly they are removed, but even
+outright lethal genes will be included among the chromosomes from
+generation to generation provided they are recessive. These deleterious
+genes make up the _genetic load_.
+
+The only way to avoid a genetic load is to have no mutations and
+therefore no gene pool. The gene pool is necessary for the flexibility
+that will allow a species to survive and evolve over the eons and the
+genetic load is the price that must be paid for that. Generally, the
+capacity for a species to reproduce itself is sufficiently high to make
+up, quite easily, the numbers lost through the combination of
+deleterious genes.
+
+The size of a genetic load depends on two factors: The rate at which a
+deleterious gene is produced through mutation, and the rate at which it
+is removed by natural selection. When the rate of removal equals the
+rate of production, a condition of _genetic equilibrium_ is reached and
+the level of occurrence of that gene then remains stable over the
+generations.
+
+Even though deleterious genes are removed relatively rapidly, if
+dominant, and lethal genes are removed in the same generation in which
+they are formed, a new crop of deleterious genes will appear by mutation
+with every succeeding generation. The equilibrium level for such
+dominant deleterious genes is relatively low, however.
+
+Deleterious genes that are recessive are removed much more slowly. Those
+persons with two such genes, who alone show the bad effects, are like
+the visible portion of an iceberg and represent only a small part of the
+whole. The heterozygotes, or carriers, who possess a single gene of this
+sort, and who live out normal lives, keep that gene in being. If people
+in a particular population marry randomly and if one out of a million is
+born homozygous for a certain deleterious recessive gene (and dies of
+it), one out of five hundred is heterozygous for that same gene, shows
+no ill effects, and is capable of passing it on.
+
+It may be that the heterozygote is not quite normal but does show some
+ill effects—not enough to incommode him seriously, perhaps, but enough
+to lower his chances slightly for mating and bearing children. In that
+case, the equilibrium level for that gene will be lower than it would
+otherwise be.
+
+It may also be that the heterozygote experiences an actual advantage
+over the normal individual under some conditions. There is a recessive
+gene, for instance, that produces a serious disease called sickle-cell
+anemia. People possessing two such genes usually die young. A
+heterozygote possessing only one of these genes is not seriously
+affected and has red blood cells that are, apparently, less appetizing
+to malaria parasites. The heterozygote therefore experiences a positive
+advantage if he lives in a region where the incidence of certain kinds
+of malaria is high. The equilibrium level of the sickle-cell anemia gene
+can, in other words, be higher in malarial regions than elsewhere.
+
+Here is one subject area in which additional research is urgently
+needed. It may be that the usefulness of a single deleterious gene is
+greater than we may suspect in many cases, and that there are greater
+advantages to heterozygousness than we know. This may be the basis of
+what is sometimes called “hybrid vigor”. In a world in which human
+beings are more mobile than they have ever been in history and in which
+intercultural marriages are increasingly common, information on this
+point is particularly important.
+
+
+Mutation Rates
+
+It is easier to observe the removal of genes through death or through
+failure to reproduce than to observe their production through mutation.
+It is particularly difficult to study their production in human beings,
+since men have comparatively long lifetimes and few children, and since
+their mating habits cannot well be controlled.
+
+For this reason, geneticists have experimented with species much simpler
+than man—smaller organisms that are short-lived, produce many offspring,
+and that can be penned up and allowed to mate only under fixed
+conditions. Such creatures may have fewer chromosomes than man does and
+the sites of mutation are more easily pinned down.
+
+An important assumption made in such experiments is that the machinery
+of inheritance and mutation is essentially the same in all creatures and
+that therefore knowledge gained from very simple species (even from
+bacteria) is applicable to man. There is overwhelming evidence to
+indicate that this is true in general, although there are specific
+instances where it is not completely true and scientists must tread
+softly while drawing conclusions.
+
+The animals most commonly used in studies of genetics and mutations are
+certain species of fruit flies, called _Drosophila_. The American
+geneticist, Hermann J. Muller, devised techniques whereby he could study
+the occurrence of lethal mutations anywhere along one of the four pairs
+of chromosomes possessed by _Drosophilia_.
+
+A lethal gene, he found, might well be produced somewhere along the
+length of a particular chromosome once out of every two hundred times
+that chromosome underwent replication. This means that out of every 200
+sex cells produced by _Drosophilia_, one would contain a lethal gene
+somewhere along the length of that chromosome.
+
+[Illustration: _Geneticist Hermann J. Muller studying_ Drosophila _in
+his laboratory. Dr. Muller won a Nobel Prize in 1946 for showing that
+radiation can cause mutations. (See page 34.)_]
+
+That particular chromosome, however, contained at least 500 genes
+capable of undergoing a lethal mutation. If each of those genes is
+equally likely to undergo such a mutation, then the chance that any one
+particular gene is lethal is one out of 200 × 500, or 1 out of 100,000.
+
+This is a typical mutation rate for a gene in higher organisms
+generally, as far as geneticists can tell (though the rates are lower
+among bacteria and viruses). Naturally, a chance for mutation takes
+place every time a new individual is born. Fruit flies have many more
+offspring per year than human beings, since their generations are
+shorter and they produce more young at a time. For that reason, though
+the mutation rate may be the same in fruit flies as in man, many more
+actual mutations are produced per unit time in fruit flies than in men.
+
+This does not mean that the situation may be ignored in the case of man.
+Suppose the rate for production of a particular deleterious gene in man
+is 1 out of 100,000. It is estimated that a human being has at least
+10,000 different genes, and therefore the chance that at least one of
+the genes in a sex cell is deleterious is 10,000 out of 100,000 or 1 out
+of 10.
+
+Furthermore, it is estimated that the number of gene mutations that are
+weakly deleterious are four times as numerous as those that are strongly
+deleterious or lethal. The chances that at least one gene in a sex cell
+is at least weakly deleterious then would be 4 + 1 out of 10, or 1 out
+of 2.
+
+Naturally, these deleterious genes are not necessarily spread out evenly
+among human beings with one to a sex cell. Some sex cells will be
+carrying more than one, thus increasing the number that may be expected
+to carry none at all. Even so, it is supposed that very nearly half the
+sex cells produced by humanity carry at least one deleterious gene.
+
+Even though only half the sex cells are free of deleterious genes, it is
+still possible to produce a satisfactory new generation of men. Yet one
+can see that the genetic load is quite heavy and that anything that
+would tend to increase it would certainly be undesirable, and perhaps
+even dangerous.
+
+We tend to increase the genetic load by reducing the rate at which
+deleterious genes are removed, that is, by taking care of the sick and
+retarded, and by trying to prevent discomfort and death at all levels.
+
+There is, however, no humane alternative to this. What’s more, it is, by
+and large, only those with slightly deleterious genes who are preserved
+genetically. It is those persons with nearsightedness, with diabetes,
+and so on, who, with the aid of glasses, insulin, or other props, can go
+on to live normal lives and have children in the usual numbers. Those
+with strongly deleterious genes either die despite all that can be done
+for them even today or, at the least, do not have a chance to have many
+children.
+
+The danger of an increase in the genetic load rests more heavily, then,
+at the other end—at measures that (usually inadvertently or
+unintentionally) increase the rate of production of mutant genes. It is
+to this matter we will now turn.
